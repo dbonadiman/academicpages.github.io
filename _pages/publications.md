@@ -5,9 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+
 
 {% include base_path %}
 
@@ -23,4 +22,4 @@ author_profile: true
 
 [2] D. Bonadiman, A. Severyn, A. Moschitti,  <i>"Recurrent Context Window Networks for Italian Named Entity Recognizer."</i>, Italian Journal of Computational Linguistics vol. 2. 2016. 
 
-[1] D. Bonadiman, A. Severyn, A. Moschitti,  <i>"Deep neural networks for named entity recognition in Italian."</i>, Proceedings of the Second Italian Conference on Computational Linguistics (CLiC-it 2015). Dec 2015.
+[1] D. Bonadiman, A. Severyn, A. Moschitti,  <i>"Deep neural networks for named entity recognition in Italian."</i>, Proceedings of the Second Italian Conference on Computational Linguistics (CLiC-it 2015). Dec 2015.  ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `BEST PAPER AWARD`
