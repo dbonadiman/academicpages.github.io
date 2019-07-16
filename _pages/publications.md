@@ -9,6 +9,9 @@ author_profile: true
 
 
 {% include base_path %}
+[7] D. Bonadiman, A. Kumar, and A. Mittal. <i> "Large Scale Question Paraphrase Retrieval with Smoothed Deep Metric Learning."</i> arXiv preprint arXiv:1905.12786 (2019). ![#000080](https://placehold.it/15/000080/000000?text=+) `PRE-PRINT`
+
+[7] Uva, Antonio, Daniele Bonadiman, and Alessandro Moschitti. <i> "Injecting Relational Structural Representation in Neural Networks for Question Similarity."</> Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers) (ACL 2018).
 
 [7] K. Tymoshenko, D. Bonadiman and A. Moschitti, <i>"Ranking Kernels for Structures and Embeddings: A Hybrid Preference and Classification Model"</i>, in Proceedings of the Conference on Empirical Methods for Natural Language Processing (EMNLP 2017), September 2017. 
 
